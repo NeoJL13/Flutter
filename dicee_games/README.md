@@ -10,6 +10,4 @@ A new Flutter project.
   ## State after that
   ![CHEESE!](https://github.com/NeoJL13/Flutter/assets/121484753/984e4180-34f5-41f4-95b3-73720df30bac.png)
 
-)
-    
   
