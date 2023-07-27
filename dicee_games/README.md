@@ -6,9 +6,10 @@ A new Flutter project.
   It includes 2 dice that can interact directly and randomly.
   ## Here is my display
   ### Initial state
-  ![CHEESE!](https://github.com/NeoJL13/Flutter/assets/121484753/93e91e11-8e10-4c0d-85e9-f70b7e88335b.png)
+  ![CHEESE!](https://github.com/NeoJL13/Flutter/assets/121484753/f3de8697-1284-40d4-8af5-0390fa82ee00.png)
   ### State after that
-  ![CHEESE!](https://github.com/NeoJL13/Flutter/assets/121484753/10d68350-3f85-467e-b016-82f08cfbfa5d.png)
+  ![CHEESE!](https://github.com/NeoJL13/Flutter/assets/121484753/984e4180-34f5-41f4-95b3-73720df30bac.png)
+
 )
     
   
