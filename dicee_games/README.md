@@ -1,16 +1,9 @@
 # dicee_games
-
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Introduce this games
+  ## Dicee
+  It includes 2 dice that can interact directly and randomly.
+  ### Here is my display
+![CHEESE!](https://github.com/NeoJL13/Flutter/assets/121484753/93e91e11-8e10-4c0d-85e9-f70b7e88335b.png)
+  
